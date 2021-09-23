@@ -3,3 +3,4 @@ print(a)
 lst=[]
 lst.append(a)
 print(lst)
+print(open door)
